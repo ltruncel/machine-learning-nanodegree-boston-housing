@@ -1,4 +1,4 @@
-This is the first project I completed for my Udacity Machine Learning Engineer Nanodegree program.  Following are directions to students with instructions for completeing this project.
+This is the first project I completed for my Udacity Machine Learning Engineer Nanodegree program.  Following are instructions from Udacity regarding how this project should be completed.
 
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
