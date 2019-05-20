@@ -1,3 +1,5 @@
+This is the first project I completed for my Udacity Machine Learning Engineer Nanodegree program.  Following are directions to students with instructions for completeing this project.
+
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
